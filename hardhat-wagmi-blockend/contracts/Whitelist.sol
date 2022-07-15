@@ -10,7 +10,6 @@ contract Whitelist {
     // @notice The owner of the contract
     address owner;
 
-    // @notice Stores the whitelisted addresses.
     // @dev Creates a mapping that receives the user's address and returns if they are whitelisted or not.
     mapping(address => bool) whitelistedAddresses;
 
