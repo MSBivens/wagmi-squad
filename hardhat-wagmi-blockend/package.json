@@ -1,0 +1,10 @@
+{
+  "name": "hardhat-wagmi-blockend",
+  "version": "1.0.0",
+  "description": "the blockend code for wagmi squad",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
